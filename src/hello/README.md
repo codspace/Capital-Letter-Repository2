@@ -7,7 +7,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/codspace/Capital-Letter-Repository/hello:1": {}
+    "ghcr.io/codspace/Capital-Letter-Repository2/hello:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ A hello world feature
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/codspace/Capital-Letter-Repository/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/codspace/Capital-Letter-Repository2/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
